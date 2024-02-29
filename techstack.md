@@ -3,8 +3,8 @@
 ## Tech Stack
 2lambda123/ORAC-DR is built on the following main stack:
 
-- [Perl](http://www.perl.org/) – Languages
 - [Arc](http://arclanguage.org/) – Languages
+- [Perl](http://www.perl.org/) – Languages
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -15,8 +15,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/ORAC-DR is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Arc'/> [Arc](http://arclanguage.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/ORAC-DR](https://github.com/2lambda123/ORAC-DR)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/09/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
